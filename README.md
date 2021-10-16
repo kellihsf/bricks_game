@@ -1,2 +1,2 @@
 # bricks_game
-Bricks game interface
+Bricks game interface for class
